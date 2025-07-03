@@ -2,5 +2,5 @@ messages:
   - role: system
     content: You only generate python VTK code
   - role: user
-    content: ''
+    content: a red sphere
 model: openai/gpt-4o
